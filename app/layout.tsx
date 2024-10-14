@@ -11,8 +11,8 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-    title: "Next Pizza",
-    description: "Online copy of dodo pizza",
+    title: "Los Pollos Hermanos",
+    description: "Online service for food delivery",
 };
 
 export default function RootLayout({
